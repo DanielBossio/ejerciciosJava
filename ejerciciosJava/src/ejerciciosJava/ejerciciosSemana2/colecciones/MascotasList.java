@@ -2,11 +2,11 @@ package ejerciciosJava.ejerciciosSemana2.colecciones;
 
 import java.util.ArrayList;
 
-import ejerciciosJava.Conejo;
-import ejerciciosJava.Gato;
-import ejerciciosJava.Mascota;
-import ejerciciosJava.Perro;
-import ejerciciosJava.Pez;
+import ejerciciosJava.ejerciciosSemana1.Conejo;
+import ejerciciosJava.ejerciciosSemana1.Gato;
+import ejerciciosJava.ejerciciosSemana1.Mascota;
+import ejerciciosJava.ejerciciosSemana1.Perro;
+import ejerciciosJava.ejerciciosSemana1.Pez;
 
 public class MascotasList {
 	static ArrayList<Mascota> mascotas = new ArrayList<>();
